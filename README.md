@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+We also have a folder with name Backend this folder is used to connect to local mongodb and express app.
+
 In the project directory, you can run:
 
 ### `npm start`
