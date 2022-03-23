@@ -1,10 +1,10 @@
 import './App.css';
-import TodoApp from './TodoApp';
+import HobbyApp from './HobbyApp';
 
 function App() {
     return (
         <div className='App'>
-            <TodoApp />
+            <HobbyApp />
         </div>
     );
 }
